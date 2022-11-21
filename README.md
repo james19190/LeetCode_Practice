@@ -12,16 +12,6 @@ N/A
 ```python
 import CodingPractice
 
-# returns 'words'
-foobar.pluralize('word')
-
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
-```
-
 ## Contributing
 
 [Geunwoo, Kim](https://github.com/foolishvoy)  

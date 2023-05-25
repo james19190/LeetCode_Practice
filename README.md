@@ -1,6 +1,6 @@
 # Coding Apes - LeetCode Practice
 
-Coding Apes consists of 3 apes practicing coding to get into Google. 
+Coding Apes consists of 3 apes practicing coding
 
 ## Installation
 
